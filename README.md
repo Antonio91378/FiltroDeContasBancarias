@@ -1,5 +1,3 @@
- <style>p{color:white;}</style>
- <style>span{color:red;}</style>
  <div><p>   Nesse código eu crio varias contas bancarias, entretando ha uma necessidade de filtrar essas contas, para evitar possiveis fraudes. Os parametros dessa filtragem sao: Ter saldo abaixo de 100; Ter saldo acima de 500000; Ter a conta criada no mes atual( preciso implementar o metodo date pra isso ficar mais otimizado).
 </p>
 <p>
