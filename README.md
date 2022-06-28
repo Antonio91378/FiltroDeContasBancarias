@@ -3,6 +3,6 @@ de filtrar essas contas, para evitar possiveis fraudes. Os parametros dessa filt
 ada no mes atual( preciso implementar o metodo date pra isso ficar mais otimizado).
 </p>
 <p>
-    Com a utilizacao do padrao de projeto <spam color = "#ff0000">Decorator</spam>, eu consigo encadear esses filtros de maneira bem interessante, facilizando o uso dos filtros requeridos e facili-tando a possibilidade de criacao de novos filtros.
+    Com a utilizacao do padrao de projeto <spam style = "color:red">Decorator</spam>, eu consigo encadear esses filtros de maneira bem interessante, facilizando o uso dos filtros requeridos e facili-tando a possibilidade de criacao de novos filtros.
 </p>
 </div>
