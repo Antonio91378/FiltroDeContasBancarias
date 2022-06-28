@@ -1,0 +1,15 @@
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\bin\Debug\net6.0\FiltroDeContas.exe
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\bin\Debug\net6.0\FiltroDeContas.deps.json
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\bin\Debug\net6.0\FiltroDeContas.runtimeconfig.json
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\bin\Debug\net6.0\FiltroDeContas.dll
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\bin\Debug\net6.0\FiltroDeContas.pdb
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\obj\Debug\net6.0\FiltroDeContas.csproj.AssemblyReference.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\obj\Debug\net6.0\FiltroDeContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\obj\Debug\net6.0\FiltroDeContas.AssemblyInfoInputs.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\obj\Debug\net6.0\FiltroDeContas.AssemblyInfo.cs
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\obj\Debug\net6.0\FiltroDeContas.csproj.CoreCompileInputs.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\obj\Debug\net6.0\FiltroDeContas.dll
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\obj\Debug\net6.0\refint\FiltroDeContas.dll
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\obj\Debug\net6.0\FiltroDeContas.pdb
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\obj\Debug\net6.0\FiltroDeContas.genruntimeconfig.cache
+C:\Users\antonio.dias\Desktop\me\Projects_Alura\FiltroDeContas\FiltroDeContas\obj\Debug\net6.0\ref\FiltroDeContas.dll
